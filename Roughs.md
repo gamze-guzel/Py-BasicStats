@@ -117,6 +117,7 @@ cov = sum/(count(a)-1)
 
 And if you do it right, your `correlation(data0, data2)` should be about `0.962`
 
+
 ### Conclusion
 
 Using these are ways of building your code, you should be able to put them into python (or any other language).
